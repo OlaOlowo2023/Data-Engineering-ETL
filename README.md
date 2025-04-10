@@ -1,7 +1,5 @@
 # Data Engineering Projects
 
-![](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/image.jpeg)
-
 ## Project 1: Data Modeling with Postgres
 In this project, we apply Data Modeling with Postgres and build an ETL pipeline using Python. A startup wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Currently, they are collecting data in json format and the analytics team is particularly interested in understanding what songs users are listening to.
 
@@ -39,8 +37,7 @@ In this project, we build an etl pipeline to fetch data from yelp API and insert
 
 Link: [API to Postgres](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Api_to_Postgres)
 
-## CAPSTONE PROJECT
-Udacity provides their own crafted Capstone project with dataset that include data on immigration to the United States, and supplementary datasets that include data on airport codes, U.S. city demographics, and temperature data.
+## Project Owner
   
-I worked on my own open-ended project. <br />
-Here is the link - [goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline)
+Here is my profile: <br />
+Ben Olowolagba - [LinkedIn](https://www.linkedin.com/in/ben-olowolagba)
